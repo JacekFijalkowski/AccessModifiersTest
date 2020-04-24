@@ -1,6 +1,7 @@
-﻿using System;
+﻿using AccessModifiersTest;
+using System;
 
-namespace AccessModifiersTest
+namespace NewAssembly
 {
     class Program
     {
@@ -15,4 +16,10 @@ namespace AccessModifiersTest
             Console.WriteLine(testData.protectedInternalInt);
         }
     }
+
+    
+    
+
+
+
 }
